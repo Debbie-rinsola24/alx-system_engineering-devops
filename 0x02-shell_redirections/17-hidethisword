@@ -1,0 +1,2 @@
+#!/bin/bash
+egrap -v "bin" /etc/passwd
