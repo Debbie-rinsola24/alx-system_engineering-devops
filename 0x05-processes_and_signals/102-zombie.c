@@ -1,6 +1,3 @@
-table File  37 lines (33 sloc)  506 Bytes
- 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
