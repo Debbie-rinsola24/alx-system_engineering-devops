@@ -39,4 +39,4 @@ backend abnb_backend
 " >> /etc/haproxy/haproxy.cfg
 
 service haproxy start
-                      
+
